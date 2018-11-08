@@ -1,4 +1,4 @@
-angr
+long-angr
 ====
 
 [![Latest Release](https://img.shields.io/pypi/v/angr.svg)](https://pypi.python.org/pypi/angr/)
